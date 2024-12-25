@@ -1,0 +1,7 @@
+packs=()
+
+for pack in ${packs[@]}
+do
+	echo $pack
+	./pax add $pack
+done

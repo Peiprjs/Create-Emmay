@@ -1,0 +1,325 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.3.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "author": "Emma",
+  "name": "Create: Emmay",
+  "files": [
+    {
+      "projectID": 69162,
+      "fileID": 5374122,
+      "required": true,
+      "__meta": {
+        "name": "CoFH Core",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 69163,
+      "fileID": 5372749,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Expansion",
+        "dependencies": [
+          222880
+        ]
+      }
+    },
+    {
+      "projectID": 220318,
+      "fileID": 5773031,
+      "required": true,
+      "__meta": {
+        "name": "Biomes O' Plenty",
+        "dependencies": [
+          563928,
+          955399
+        ]
+      }
+    },
+    {
+      "projectID": 222880,
+      "fileID": 5443583,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Foundation",
+        "explicit": false,
+        "dependencies": [
+          69162
+        ]
+      }
+    },
+    {
+      "projectID": 231095,
+      "fileID": 5203366,
+      "required": true,
+      "__meta": {
+        "name": "Chisels & Bits - For Forge"
+      }
+    },
+    {
+      "projectID": 238222,
+      "fileID": 5846810,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 240630,
+      "fileID": 5057220,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Resources (JER)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 242818,
+      "fileID": 5753868,
+      "required": true,
+      "__meta": {
+        "name": "CodeChicken Lib 1.8.+",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 243076,
+      "fileID": 4844585,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage"
+      }
+    },
+    {
+      "projectID": 245174,
+      "fileID": 5292573,
+      "required": true,
+      "__meta": {
+        "name": "Ender Storage 1.8.+",
+        "dependencies": [
+          242818
+        ]
+      }
+    },
+    {
+      "projectID": 282001,
+      "fileID": 5714507,
+      "required": true,
+      "__meta": {
+        "name": "CC: Tweaked"
+      }
+    },
+    {
+      "projectID": 289412,
+      "fileID": 5816794,
+      "required": true,
+      "__meta": {
+        "name": "FTB Quests (Forge)",
+        "dependencies": [
+          419699,
+          404468,
+          404465
+        ]
+      }
+    },
+    {
+      "projectID": 306770,
+      "fileID": 4966125,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli"
+      }
+    },
+    {
+      "projectID": 309927,
+      "fileID": 5843594,
+      "required": true,
+      "__meta": {
+        "name": "Curios API (Forge/NeoForge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 328085,
+      "fileID": 5838779,
+      "required": true,
+      "__meta": {
+        "name": "Create",
+        "dependencies": [
+          486392
+        ]
+      }
+    },
+    {
+      "projectID": 376737,
+      "fileID": 4769646,
+      "required": true,
+      "__meta": {
+        "name": "Pretty Pipes",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 404465,
+      "fileID": 6016763,
+      "required": true,
+      "__meta": {
+        "name": "FTB Library (Forge)",
+        "explicit": false,
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 404468,
+      "fileID": 5267190,
+      "required": true,
+      "__meta": {
+        "name": "FTB Teams (Forge)",
+        "explicit": false,
+        "dependencies": [
+          419699,
+          404465
+        ]
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 5137938,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric/Forge/NeoForge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 459701,
+      "fileID": 4766090,
+      "required": true,
+      "__meta": {
+        "name": "Catalogue"
+      }
+    },
+    {
+      "projectID": 479142,
+      "fileID": 4729229,
+      "required": true,
+      "__meta": {
+        "name": "Pretty Pipes: Fluids",
+        "dependencies": [
+          376737
+        ]
+      }
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3535459,
+      "required": true,
+      "__meta": {
+        "name": "Flywheel (Legacy)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 506948,
+      "fileID": 5281932,
+      "required": true,
+      "__meta": {
+        "name": "JER Integration",
+        "dependencies": [
+          238222,
+          240630
+        ]
+      }
+    },
+    {
+      "projectID": 538587,
+      "fileID": 5230951,
+      "required": true,
+      "__meta": {
+        "name": "Dice"
+      }
+    },
+    {
+      "projectID": 563928,
+      "fileID": 5378180,
+      "required": true,
+      "__meta": {
+        "name": "TerraBlender (Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 570073,
+      "fileID": 5659871,
+      "required": true,
+      "__meta": {
+        "name": "Resourceful Lib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 694474,
+      "fileID": 5959159,
+      "required": true,
+      "__meta": {
+        "name": "All in one: Create"
+      }
+    },
+    {
+      "projectID": 704113,
+      "fileID": 5486070,
+      "required": true,
+      "__meta": {
+        "name": "Botarium",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 850410,
+      "fileID": 5923435,
+      "required": true,
+      "__meta": {
+        "name": "Create: Estrogen",
+        "dependencies": [
+          309927,
+          570073,
+          704113,
+          328085
+        ]
+      }
+    },
+    {
+      "projectID": 918751,
+      "fileID": 5446853,
+      "required": true,
+      "__meta": {
+        "name": "Create: Bitterballen",
+        "dependencies": [
+          328085
+        ]
+      }
+    },
+    {
+      "projectID": 955399,
+      "fileID": 5787839,
+      "required": true,
+      "__meta": {
+        "name": "GlitchCore",
+        "explicit": false
+      }
+    }
+  ]
+}
