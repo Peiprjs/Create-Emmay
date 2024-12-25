@@ -1,9 +1,9 @@
 {
   "minecraft": {
-    "version": "1.20.1",
+    "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "forge-47.3.0",
+        "id": "forge-52.0.37",
         "primary": true
       }
     ]
@@ -37,7 +37,7 @@
     },
     {
       "projectID": 220318,
-      "fileID": 5773031,
+      "fileID": 5855568,
       "required": true,
       "__meta": {
         "name": "Biomes O' Plenty",
@@ -69,7 +69,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 5846810,
+      "fileID": 5846880,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -113,8 +113,16 @@
       }
     },
     {
+      "projectID": 263420,
+      "fileID": 6012855,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's Minimap"
+      }
+    },
+    {
       "projectID": 282001,
-      "fileID": 5714507,
+      "fileID": 5714512,
       "required": true,
       "__meta": {
         "name": "CC: Tweaked"
@@ -122,7 +130,7 @@
     },
     {
       "projectID": 289412,
-      "fileID": 5816794,
+      "fileID": 5882270,
       "required": true,
       "__meta": {
         "name": "FTB Quests (Forge)",
@@ -135,7 +143,7 @@
     },
     {
       "projectID": 306770,
-      "fileID": 4966125,
+      "fileID": 5683901,
       "required": true,
       "__meta": {
         "name": "Patchouli"
@@ -151,19 +159,24 @@
       }
     },
     {
+      "projectID": 317780,
+      "fileID": 5987169,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's World Map"
+      }
+    },
+    {
       "projectID": 328085,
       "fileID": 5838779,
       "required": true,
       "__meta": {
-        "name": "Create",
-        "dependencies": [
-          486392
-        ]
+        "name": "Create"
       }
     },
     {
       "projectID": 376737,
-      "fileID": 4769646,
+      "fileID": 5963313,
       "required": true,
       "__meta": {
         "name": "Pretty Pipes",
@@ -172,7 +185,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 6016763,
+      "fileID": 6016745,
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
@@ -184,7 +197,7 @@
     },
     {
       "projectID": 404468,
-      "fileID": 5267190,
+      "fileID": 5882217,
       "required": true,
       "__meta": {
         "name": "FTB Teams (Forge)",
@@ -196,8 +209,16 @@
       }
     },
     {
+      "projectID": 416089,
+      "fileID": 5998334,
+      "required": true,
+      "__meta": {
+        "name": "Simple Voice Chat"
+      }
+    },
+    {
       "projectID": 419699,
-      "fileID": 5137938,
+      "fileID": 5786327,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge/NeoForge)",
@@ -205,8 +226,36 @@
       }
     },
     {
+      "projectID": 433760,
+      "fileID": 6020006,
+      "required": true,
+      "__meta": {
+        "name": "Not Enough Animations"
+      }
+    },
+    {
+      "projectID": 439890,
+      "fileID": 5658602,
+      "required": true,
+      "__meta": {
+        "name": "Create Crafts & Additions",
+        "dependencies": [
+          328085
+        ]
+      }
+    },
+    {
+      "projectID": 444699,
+      "fileID": 5774726,
+      "required": true,
+      "__meta": {
+        "name": "Configuration",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 459701,
-      "fileID": 4766090,
+      "fileID": 5893750,
       "required": true,
       "__meta": {
         "name": "Catalogue"
@@ -214,22 +263,13 @@
     },
     {
       "projectID": 479142,
-      "fileID": 4729229,
+      "fileID": 5752746,
       "required": true,
       "__meta": {
         "name": "Pretty Pipes: Fluids",
         "dependencies": [
           376737
         ]
-      }
-    },
-    {
-      "projectID": 486392,
-      "fileID": 3535459,
-      "required": true,
-      "__meta": {
-        "name": "Flywheel (Legacy)",
-        "explicit": false
       }
     },
     {
@@ -245,6 +285,23 @@
       }
     },
     {
+      "projectID": 509285,
+      "fileID": 5293982,
+      "required": true,
+      "__meta": {
+        "name": "Create Deco"
+      }
+    },
+    {
+      "projectID": 532610,
+      "fileID": 5945693,
+      "required": true,
+      "__meta": {
+        "name": "oωo (owo-lib)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 538587,
       "fileID": 5230951,
       "required": true,
@@ -254,7 +311,7 @@
     },
     {
       "projectID": 563928,
-      "fileID": 5378180,
+      "fileID": 5864139,
       "required": true,
       "__meta": {
         "name": "TerraBlender (Forge)",
@@ -263,11 +320,39 @@
     },
     {
       "projectID": 570073,
-      "fileID": 5659871,
+      "fileID": 5793500,
       "required": true,
       "__meta": {
         "name": "Resourceful Lib",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 626676,
+      "fileID": 5782845,
+      "required": true,
+      "__meta": {
+        "name": "LDLib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 686836,
+      "fileID": 5960306,
+      "required": true,
+      "__meta": {
+        "name": "Tectonic"
+      }
+    },
+    {
+      "projectID": 688231,
+      "fileID": 5840017,
+      "required": true,
+      "__meta": {
+        "name": "Create: Steam 'n' Rails",
+        "dependencies": [
+          328085
+        ]
       }
     },
     {
@@ -302,6 +387,19 @@
       }
     },
     {
+      "projectID": 890405,
+      "fileID": 5812613,
+      "required": true,
+      "__meta": {
+        "name": "GregTechCEu Modern",
+        "explicit": false,
+        "dependencies": [
+          444699,
+          626676
+        ]
+      }
+    },
+    {
       "projectID": 918751,
       "fileID": 5446853,
       "required": true,
@@ -313,12 +411,42 @@
       }
     },
     {
+      "projectID": 922713,
+      "fileID": 5765224,
+      "required": true,
+      "__meta": {
+        "name": "Gregicality Rocketry",
+        "dependencies": [
+          890405
+        ]
+      }
+    },
+    {
+      "projectID": 938917,
+      "fileID": 6006110,
+      "required": true,
+      "__meta": {
+        "name": "Accessories",
+        "dependencies": [
+          532610
+        ]
+      }
+    },
+    {
       "projectID": 955399,
-      "fileID": 5787839,
+      "fileID": 5660740,
       "required": true,
       "__meta": {
         "name": "GlitchCore",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 1036809,
+      "fileID": 5740650,
+      "required": true,
+      "__meta": {
+        "name": "Adorned (Curios)"
       }
     }
   ]
