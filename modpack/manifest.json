@@ -37,7 +37,7 @@
     },
     {
       "projectID": 220318,
-      "fileID": 6028852,
+      "fileID": 5773031,
       "required": true,
       "__meta": {
         "name": "Biomes O' Plenty",
@@ -69,7 +69,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 6075247,
+      "fileID": 5846810,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -114,7 +114,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 6184430,
+      "fileID": 6012833,
       "required": true,
       "__meta": {
         "name": "Xaero's Minimap"
@@ -130,7 +130,7 @@
     },
     {
       "projectID": 289412,
-      "fileID": 6167056,
+      "fileID": 5816794,
       "required": true,
       "__meta": {
         "name": "FTB Quests (Forge)",
@@ -143,7 +143,7 @@
     },
     {
       "projectID": 306770,
-      "fileID": 6164575,
+      "fileID": 4966125,
       "required": true,
       "__meta": {
         "name": "Patchouli"
@@ -151,7 +151,7 @@
     },
     {
       "projectID": 309927,
-      "fileID": 6238756,
+      "fileID": 5843594,
       "required": true,
       "__meta": {
         "name": "Curios API (Forge/NeoForge)",
@@ -160,7 +160,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 6212636,
+      "fileID": 5987149,
       "required": true,
       "__meta": {
         "name": "Xaero's World Map"
@@ -168,7 +168,7 @@
     },
     {
       "projectID": 328085,
-      "fileID": 6255513,
+      "fileID": 5838779,
       "required": true,
       "__meta": {
         "name": "Create"
@@ -193,7 +193,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 6164053,
+      "fileID": 6016763,
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
@@ -205,7 +205,7 @@
     },
     {
       "projectID": 404468,
-      "fileID": 6130786,
+      "fileID": 5267190,
       "required": true,
       "__meta": {
         "name": "FTB Teams (Forge)",
@@ -218,7 +218,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 6239618,
+      "fileID": 5998323,
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
@@ -235,7 +235,7 @@
     },
     {
       "projectID": 433760,
-      "fileID": 6179086,
+      "fileID": 6019988,
       "required": true,
       "__meta": {
         "name": "Not Enough Animations"
@@ -243,7 +243,7 @@
     },
     {
       "projectID": 439890,
-      "fileID": 6256349,
+      "fileID": 5658602,
       "required": true,
       "__meta": {
         "name": "Create Crafts & Additions",
@@ -328,7 +328,7 @@
     },
     {
       "projectID": 626676,
-      "fileID": 6203898,
+      "fileID": 5927130,
       "required": true,
       "__meta": {
         "name": "LDLib",
@@ -356,7 +356,7 @@
     },
     {
       "projectID": 694474,
-      "fileID": 6251041,
+      "fileID": 5959159,
       "required": true,
       "__meta": {
         "name": "All in one: Create"
@@ -373,7 +373,7 @@
     },
     {
       "projectID": 850410,
-      "fileID": 6052639,
+      "fileID": 5923435,
       "required": true,
       "__meta": {
         "name": "Create: Estrogen",
@@ -387,7 +387,7 @@
     },
     {
       "projectID": 890405,
-      "fileID": 6254458,
+      "fileID": 6012734,
       "required": true,
       "__meta": {
         "name": "GregTechCEu Modern",
@@ -422,7 +422,7 @@
     },
     {
       "projectID": 938917,
-      "fileID": 6201361,
+      "fileID": 5869425,
       "required": true,
       "__meta": {
         "name": "Accessories",
